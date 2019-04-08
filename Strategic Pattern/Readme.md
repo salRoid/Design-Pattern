@@ -6,10 +6,10 @@
 2. Program to an Interface, not an implementation.
 3. Favour Composition over Inheritance.
 
-## Definition in order to impress someone
+## In Order to Impress Someone
 
 ```
-The Strategy Pattern deines a family of algorithms, encapsulates each one, and makes them interchangeble.
+The Strategy Pattern defines a family of algorithms, encapsulates each one, and makes them interchangeble.
 Strategy lets the algorithm vary independently from clients that use it.
 ```
 
