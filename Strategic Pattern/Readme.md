@@ -16,6 +16,7 @@ Strategy lets the algorithm vary independently from clients that use it.
 <p align="center">
  Below Diagram is from Head First Design Pattern
 </p>
+
 ![Image](strategyPattern.png)
 
 ## Refrences
