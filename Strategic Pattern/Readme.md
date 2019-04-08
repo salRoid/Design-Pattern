@@ -14,7 +14,7 @@ The Strategy Pattern defines a family of algorithms, encapsulates each one, and 
 Strategy lets the algorithm vary independently from clients that use it.
 ```
 ## Use Case diagram for the above
-![Image](/Strategy.png)
+![Image](Strategy.png)
 
 ## Refrences
 * https://www.geeksforgeeks.org/strategy-pattern-set-1/
