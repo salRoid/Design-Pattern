@@ -15,7 +15,10 @@ Strategy lets the algorithm vary independently from clients that use it.
 ```
 ## Use Case diagram for the above
 ![Image](strategyPattern.png)
-###### Head First: Design Pattern
+
+<p align="center">
+  Head First Design Pattern
+</p>
 
 ## Refrences
 
