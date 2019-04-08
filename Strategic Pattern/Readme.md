@@ -15,7 +15,9 @@ Strategy lets the algorithm vary independently from clients that use it.
 ```
 ## Use Case diagram for the above
 ![Image](strategyPattern.png)
+###### Head First: Design Pattern
 
 ## Refrences
+
 * https://www.geeksforgeeks.org/strategy-pattern-set-1/
 * https://en.wikipedia.org/wiki/Strategy_pattern
