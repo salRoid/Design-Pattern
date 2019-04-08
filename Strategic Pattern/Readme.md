@@ -17,7 +17,7 @@ Strategy lets the algorithm vary independently from clients that use it.
  Below Diagram is from Head First Design Pattern
 </p>
 
-![Image](strategyPattern.png)
+![Image](img/strategyPattern.png)
 
 ## Refrences
 * https://www.geeksforgeeks.org/strategy-pattern-set-1/
