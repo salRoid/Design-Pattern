@@ -11,21 +11,15 @@ The Observer Pattern defines a one-to-many dependency between objects so that wh
 all of its dependents are notified and updated automatically.
 ```
 
-## Easy to understand diagram
-
-**Publisher** + **Subscribers** = **Observer Pattern**
-<br>
-Publisher = Subject
-<br>
-Subscribers = Observers
-
+## Easy to understand Diagram
 <p align="center">
  Below Diagram is from Head First Design Pattern
 </p>
 
 ![Image](observerPatternDiag.png)
 
-## Class diagram for the Oberver Pattern
+
+## Class Diagram
 <p align="center">
  Below Diagram is from Head First Design Pattern
 </p>
