@@ -11,23 +11,23 @@ The Observer Pattern defines a one-to-many dependency between objects so that wh
 all of its dependents are notified and updated automatically.
 ```
 
-## Easy to understand diagram
+## Easy to understand Diagram
 <p align="center">
  Below Diagram is from Head First Design Pattern
 </p>
 
 ![Image](observerPatternDiag.png)
 
-## Important Points
-* When two objects are loosely coupled they can interact, but have very little knowledge of each other. The Observer Pattern provides an object design where subject and observers are loosely coupled.
 
-### Class Diagram
+## Class Diagram
 <p align="center">
  Below Diagram is from Head First Design Pattern
 </p>
 
 ![Image](observerPattern.png)
 
+## Important Points
+* When two objects are loosely coupled they can interact, but have very little knowledge of each other. The Observer Pattern provides an object design where subject and observers are loosely coupled.
 
 ## Refrences
 * https://www.geeksforgeeks.org/observer-pattern-set-1-introduction/
