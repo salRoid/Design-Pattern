@@ -12,20 +12,12 @@ all of its dependents are notified and updated automatically.
 ```
 
 ## Easy to understand diagram
-
-**Publisher** + **Subscribers** = **Observer Pattern**
-<br>
-Publisher = Subject
-<br>
-Subscribers = Observers
-
 <p align="center">
  Below Diagram is from Head First Design Pattern
 </p>
 
 ![Image](observerPatternDiag.png)
 
-## Class diagram for the Oberver Pattern
 <p align="center">
  Below Diagram is from Head First Design Pattern
 </p>
