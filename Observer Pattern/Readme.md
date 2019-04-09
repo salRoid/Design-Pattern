@@ -7,17 +7,21 @@
 
 ## In Order to Impress Someone
 ```
-The Observer Pattern defines a one-to-many dependency between objects so that when one object changes state, all of its dependents are notified and updated automatically.
+The Observer Pattern defines a one-to-many dependency between objects so that when one object changes state, 
+all of its dependents are notified and updated automatically.
 ```
 
 ## Easy to understand diagram
+
+**Publisher** + **Subscribers** = **Observer Pattern**
+<br>
+Publisher = Subject
+<br>
+Subscribers = Observers
+
 <p align="center">
  Below Diagram is from Head First Design Pattern
 </p>
-
-*Publisher* + *Subscribers* = *Observer Pattern*
-Publisher = Subject
-Subscribers = Observers
 
 ![Image](observerPatternDiag.png)
 
@@ -32,5 +36,5 @@ Subscribers = Observers
 * When two objects are loosely coupled they can interact, but have very little knowledge of each other. The Observer Pattern provides an object design where subject and observers are loosely coupled.
 
 ## Refrences
-* https://www.geeksforgeeks.org/strategy-pattern-set-1/
-* https://en.wikipedia.org/wiki/Strategy_pattern
+* https://www.geeksforgeeks.org/observer-pattern-set-1-introduction/
+* https://en.wikipedia.org/wiki/Observer_pattern
