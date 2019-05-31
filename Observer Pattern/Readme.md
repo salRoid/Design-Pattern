@@ -12,18 +12,9 @@ all of its dependents are notified and updated automatically.
 ```
 
 ## Easy to understand Diagram
-<p align="center">
- Below Diagram is from Head First Design Pattern
-</p>
-
 ![Image](observerPatternDiag.png)
 
-
 ## Class Diagram
-<p align="center">
- Below Diagram is from Head First Design Pattern
-</p>
-
 ![Image](observerPattern.png)
 
 ## Important Points
