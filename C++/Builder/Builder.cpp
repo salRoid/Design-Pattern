@@ -18,7 +18,6 @@ public:
     }
 };
 
-
 class PlaneBuilder{
 protected:
     Plane *_plane;
